@@ -1,0 +1,39 @@
+body {
+	background-color: black;
+	font: 16px Arial, Helvetica, sans-serif;
+}
+
+#principal {
+	width: 850px;
+}
+
+#menu {
+	text-align: center;
+	color: whitesmoke;
+	padding: 15px;
+}
+
+a {
+	color: white;
+	text-decoration: none;
+	font-weight: bold;
+	padding: 5px;
+}
+
+#conteudo {
+
+	color: whitesmoke;
+	padding: 10px;
+	text-align: center;
+	
+}
+
+.centralizar {
+	color: white;
+	text-align: center;
+}
+
+#rodape {
+	color: whitesmoke;
+	text-align: center;
+}
